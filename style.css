@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(163, 182, 175);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    text-align: center;
+    margin: 5% ;
+    background-color: aliceblue;
+    padding: 25px;
+}
+
+.title-h1 {
+    font-size: 50px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.title-h2,.title-h3 {
+
+    font-size: 35px;
+}
+
+.title-h2 {
+
+    color: rgb(25, 76, 124);
+}
+
+.title-h3 {
+
+    color: rgb(93, 48, 136);
+}
+
+.paragraf {
+
+    font-size: 20px;
+    color: rgb(70, 63, 63);
+}
+
